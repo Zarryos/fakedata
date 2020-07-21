@@ -1,6 +1,6 @@
 
 {
-  "stories": {
+  "stories": [
     {
       "id" : 0,
       "title" : "Les enfants perdus",
@@ -22,5 +22,5 @@
       "latitude" : 43.577279,
       "longitude" : 7.125220,
     }
-  }
+  ]
 }
