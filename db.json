@@ -27,5 +27,28 @@
       "latitude" : 43.577279,
       "longitude" : 7.125220
     }
+    ],
+    "storySteps" : [
+        {
+            "id" : 0,
+            "storyId" : 0,
+            "number" : 0,
+            "latitude" : 43.576279,
+            "longitude" : 7.124220
+        },   
+        {
+            "id" : 0,
+            "storyId" : 0,
+            "number" : 1,
+            "latitude" : 43.576279,
+            "longitude" : 7.134220
+        },   
+        {
+            "id" : 0,
+            "storyId" : 0,
+            "number" : 2,
+            "latitude" : 43.566279,
+            "longitude" : 7.134220
+        }
     ]
 }
