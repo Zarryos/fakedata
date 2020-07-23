@@ -28,8 +28,8 @@
       "longitude" : 7.125220
     }
     ],
-    "storySteps" : [
-        {
+    "storySteps" : [   
+  {
     "id": 0,
     "storyId": 0,
     "number": 0,
@@ -93,8 +93,7 @@
 		{"45":true},
 		{"34":false},
 		{"189":false}
-	    
 	]
-  }    
+  },
 ]
 }
