@@ -31,17 +31,9 @@
     "storySteps" : {
 		"markers": [
 		  {
-			"id": 0,
-			"storyId": 0,
-			"number": 0,
-			"latitude": 43.576279,
-			"longitude": 7.12422,
-			"type":"marker"
-		  },
-		  {
 			"id": 4,
 			"storyId": 0,
-			"number": 4,
+			"number": 3,
 			"latitude": 43.5671,
 			"longitude": 7.1289,
 			"type":"marker"
@@ -51,7 +43,7 @@
 		{
 			"id": 1,
 			"storyId": 0,
-			"number": 1,
+			"number": 0,
 			"latitude": 43.576279,
 			"longitude": 7.12422,
 			"type":"dialog",
@@ -60,7 +52,7 @@
 		{
 			"id": 2,
 			"storyId": 0,
-			"number": 2,
+			"number": 1,
 			"latitude": 43.576279,
 			"longitude": 7.12422,
 			"type":"dialog",
@@ -69,7 +61,7 @@
 		{
 			"id": 3,
 			"storyId": 0,
-			"number": 3,
+			"number": 2,
 			"latitude": 43.576279,
 			"longitude": 7.12422,
 			"type":"dialog",
@@ -78,7 +70,7 @@
 		{
 			"id": 5,
 			"storyId": 0,
-			"number": 5,
+			"number": 4,
 			"latitude": 43.5671,
 			"longitude": 7.1289,
 			"type":"dialog",
@@ -89,7 +81,7 @@
 		{
 			"id": 6,
 			"storyId": 0,
-			"number": 6,
+			"number": 5,
 			"latitude": 43.5671,
 			"longitude": 7.1289,
 			"type":"question",
